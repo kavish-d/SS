@@ -1,2 +1,2 @@
 # SS
-screenshot of aure bot
+screenshot of azure bot
